@@ -2,10 +2,10 @@ body{
     background-color: rgb(57, 218, 36);
     color: rgb(219, 233, 26);
 }
-.header{background-color: green;
+.header{rgb(219, 233, 26);
 }
 .footer{
-    background-color: green;
+    rgb(219, 233, 26);
 }
 
 nav a{

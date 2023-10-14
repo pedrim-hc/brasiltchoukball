@@ -2,7 +2,9 @@ body{
     background-color: rgb(57, 218, 36);
     color: rgb(219, 233, 26);
 }
-.cab{
+.header{background-color: green;
+}
+.footer{
     background-color: green;
 }
 

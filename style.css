@@ -2,10 +2,10 @@ body{
     background-color:darkgreen;
     color: rgb(219, 233, 26);
 }
-.header{
+header{
     background-color: rgb(114, 180, 0);
 }
-.footer{
+footer{
     background-color: darkolivegreen;
 }
 

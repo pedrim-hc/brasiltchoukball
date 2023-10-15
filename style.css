@@ -1,11 +1,12 @@
 body{
-    background-color: rgb(57, 218, 36);
+    background-color:darkgreen;
     color: rgb(219, 233, 26);
 }
-.header{rgb(219, 233, 26);
+.header{
+    background-color: darkolivegreen;
 }
 .footer{
-    rgb(219, 233, 26);
+    background-color: darkolivegreen;
 }
 
 nav a{

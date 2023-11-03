@@ -45,6 +45,8 @@ nav a{
 .imagem{
     display: flex;
     justify-content: center;
+    height: 20;
+    width: 20;
 }
 
 img:hover {
